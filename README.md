@@ -6,6 +6,6 @@ To use on Windows simply set the .bat as default program to open .dicks files wi
 If you're on Linux figure it out like you always do
 
 ### Requirements
-python 3.8.0+ (haven't tested with earlier versions but should work quite far back)
+-python 3.8.0+ (haven't tested with earlier versions but should work quite far back)
 
-ffmpeg
+-ffmpeg
