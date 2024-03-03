@@ -1,7 +1,7 @@
 # DankShotConverter
 Converts the segments from [DankShot](https://github.com/Painketsu/DankShot) into a local .ts file
 
-To use on Windows simply set the .bat as default program to open the downloaded .dicks file, both (.py and .bat) must be in the same folder
+To use on Windows simply set the .bat as default program to open the .dicks file the browser extension downloads, both (.py and .bat) must be in the same folder
 
 If you're on Linux figure it out like you always do
 
